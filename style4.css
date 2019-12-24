@@ -1,0 +1,96 @@
+
+*{
+    
+    
+   margin: 0;
+    padding: 0;
+       
+     
+}
+header
+{
+    
+  background-image: url(machine-harvest-2255801.jpg);
+    height: 120vh;
+    background-size: cover;
+    background-position: center;
+    
+    
+}
+.nav-bar
+{
+    
+   background: #34495e;
+    color: black;
+    height: 80px;
+    
+     
+}
+
+.logo{
+    
+ margin: 10px 20px;
+    height: 60px;
+
+    
+    
+}
+
+.menu{
+    
+    float: right;
+    list-style: upper-roman;
+    margin: 20px;
+    
+}
+
+.menu li{
+    display: inline-block;
+    margin: 10px 5px;
+}
+
+.menu li a{
+    
+   text-decoration: none;
+    color: #fff;
+    padding: 10px 10px:
+    font-family: san-serif;
+    letter-spacing: 5px;
+    border: 1.5px solid #fff;
+    border-radius: 5px
+    
+    
+}
+
+.menu li a:hover{
+    background: #fff;
+    transition: .4s;
+    color: #000;
+    
+        
+
+}
+.welcome{
+    position: relative;
+    text-align: justify-all;
+    font-family:monospace;
+    color: white;
+    top: 30%;
+    font-size: 25px;
+}
+.welcome{
+ 
+    position: absolute;
+    top: 65%; 
+    right: 50%;
+    transform: translate(50%,-50%);
+    text-transform: capitalize;
+    font-family:monospace;
+    font-size: 1.5em;
+    font-weight: 5000;
+    color:white;
+    
+}   
+    
+    
+    
